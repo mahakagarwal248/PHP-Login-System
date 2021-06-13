@@ -89,7 +89,7 @@
 
         ?>
         <button type="button" class="btn btn-link" style="font-style: oblique; font-size: 25px; border: 2px black solid;">
-			<a href="home.php" style="font-weight: bold;">Home</a>
+			<a href="index.html" style="font-weight: bold;">Home</a>
 		</button>
         <div class="container">
             <h1 class="text-center">Login Here</h1>
